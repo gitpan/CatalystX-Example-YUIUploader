@@ -7,7 +7,7 @@ use Catalyst::Runtime '5.70';
 
 use Catalyst qw/-Debug ConfigLoader Static::Simple/;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 __PACKAGE__->config(
     name => 'CatalystX::Example::YUIUploader',
